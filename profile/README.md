@@ -1,4 +1,4 @@
-# QuasarBrains - Infinitely extensible automation tools
+# QuasarBrains - Infinitely extensible automation tools and services
 
 Our goal is to build tools that developers can use to easily automate their lives and workflows. By building systems, both enterprise and open-source, that provide the heavy lifting, so that you can focus on the fun parts of the automation process.
 
